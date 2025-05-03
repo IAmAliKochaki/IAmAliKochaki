@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamalikochaki&label=Profile%20views&color=0e75b6&style=flat" alt="iamalikochaki" /> </p>
 
-- 🌱 Currently, I'm focused **on learning SQL database management and exploring the fundamentals of web programming.**
-
 - 📫 How to reach me **alliikochaki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
