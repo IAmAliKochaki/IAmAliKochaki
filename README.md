@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Koochaki</h1>
-<h3 align="center">I have a strong interest in programming and algorithms, and I'm always eager to expand my knowledge and skills in the field of software development.</h3>
+<h3 align="center">I have a strong interest in programming and algorithms, and I'm always eager to expand my knowledge and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamalikochaki&label=Profile%20views&color=0e75b6&style=flat" alt="iamalikochaki" /> </p>
 
